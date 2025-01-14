@@ -2,3 +2,17 @@ body {
     background-color: rgb(249, 232, 240);
     color: rgb(208, 114, 130);
 }
+
+
+#first {
+    colour: lime;
+}
+
+li.personal {
+    color:blueviolet;
+}
+
+div.header {
+    background-color: aqua;
+    color: black;
+}
